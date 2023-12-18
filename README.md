@@ -1,8 +1,6 @@
-# Dashboard
+# Dashboard Project - Total Sells, Site Visits, and Searches
 
 <link>https://dashboard-86y5.onrender.com/<link>
-
-# Dashboard Project - Total Sells, Site Visits, and Searches
 
 ![Project Image](url_to_project_image.png)
 
